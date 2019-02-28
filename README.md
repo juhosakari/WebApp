@@ -1,2 +1,2 @@
 # WebApp
-Website for school
+Website for a schoolproject
